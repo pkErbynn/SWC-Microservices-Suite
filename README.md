@@ -8,7 +8,12 @@ Utilizes the following core technologies:
 - **Redis** as cache, and 
 - **C# .NET** as core language
 
-The system contains the following microservices:
+High-level architecture:
+![Architecture](./project-architecture.png)
+
+
+
+The system contains 6 microservices components:
 
 1. [Event Processor](https://github.com/pkErbynn/StatlerWaldorfCorp.ES-CQRS-EventProcessor)
 2. [Proximity Monitor](https://github.com/pkErbynn/StatlerWaldorfCorp.ES-CQRS-ProximityMonitor)
@@ -17,27 +22,27 @@ The system contains the following microservices:
 5. [Location Service](https://github.com/pkErbynn/StatlerWaldorfCorp.LocationService)
 6. [Team Service](https://github.com/pkErbynn/StatlerWaldorfCorp.TeamService)
 
-## Event Processor
+### Event Processor
 - **Repository:** [StatlerWaldorfCorp.ES-CQRS-EventProcessor](https://github.com/pkErbynn/StatlerWaldorfCorp.ES-CQRS-EventProcessor)
 - **Description:** This microservice processes events and performs CQRS operations.
 
-## Proximity Monitor
+### Proximity Monitor
 - **Repository:** [StatlerWaldorfCorp.ES-CQRS-ProximityMonitor](https://github.com/pkErbynn/StatlerWaldorfCorp.ES-CQRS-ProximityMonitor)
 - **Description:** This microservice monitors the proximity of devices and triggers alerts.
 
-## Location Reporter
+### Location Reporter
 - **Repository:** [StatlerWaldorfCorp.ES-CQRS-LocationReporter](https://github.com/pkErbynn/StatlerWaldorfCorp.ES-CQRS-LocationReporter)
 - **Description:** This microservice reports the location of devices in real-time.
 
-## Reality Consumer
+### Reality Consumer
 - **Repository:** [StatlerWaldorfCorp.ES-CQRS-RealityConsumer](https://github.com/pkErbynn/StatlerWaldorfCorp.ES-CQRS-RealityConsumer)
 - **Description:** This microservice consumes reality events and processes them for further use.
 
-## Location Service
+### Location Service
 - **Repository:** [StatlerWaldorfCorp.LocationService](https://github.com/pkErbynn/StatlerWaldorfCorp.LocationService)
 - **Description:** This microservice provides location-based services and APIs.
 
-## Team Service
+### Team Service
 - **Repository:** [StatlerWaldorfCorp.TeamService](https://github.com/pkErbynn/StatlerWaldorfCorp.TeamService)
 - **Description:** This microservice manages team-related operations and data.
 
