@@ -2,13 +2,14 @@
 
 A cutting-edge suite of scalable, event-driven microservices for team management at fictional StatlerWaldorfCorp, enabling resilient inter-service communication and real-time data processing.
 
-Utilizes the following core technologies:
+System utilizes the following core technologies:
 - **RabbitMQ** as messaging queue, 
 - **PubNub** for realtime messaging, 
 - **Redis** as cache, and 
 - **C# .NET** as core language
 
-High-level architecture:
+System High-level architecture:
+
 ![Architecture](./project-architecture.png)
 
 
@@ -21,6 +22,8 @@ The system contains 6 microservices components:
 4. [Reality Consumer](https://github.com/pkErbynn/StatlerWaldorfCorp.ES-CQRS-RealityConsumer)
 5. [Location Service](https://github.com/pkErbynn/StatlerWaldorfCorp.LocationService)
 6. [Team Service](https://github.com/pkErbynn/StatlerWaldorfCorp.TeamService)
+
+---
 
 ### Event Processor
 - **Repository:** [StatlerWaldorfCorp.ES-CQRS-EventProcessor](https://github.com/pkErbynn/StatlerWaldorfCorp.ES-CQRS-EventProcessor)
