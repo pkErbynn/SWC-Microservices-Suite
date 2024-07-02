@@ -1,7 +1,12 @@
 # SWC-Microservices-Suite
 
-A cutting-edge suite of scalable, event-driven microservices for team management at fictional StatlerWaldorfCorp. 
-Utilizing RabbitMQ, PubNub, Redis, and C# .NET for resilient inter-service communication and real-time data.
+A cutting-edge suite of scalable, event-driven microservices for team management at fictional StatlerWaldorfCorp, enabling resilient inter-service communication and real-time data processing.
+
+Utilizes the following core technologies:
+- **RabbitMQ** as messaging queue, 
+- **PubNub** for realtime messaging, 
+- **Redis** as cache, and 
+- **C# .NET** as core language
 
 The system contains the following microservices:
 
