@@ -7,6 +7,16 @@ System utilizes the following core technologies:
 - **PubNub** for realtime messaging, 
 - **Redis** as cache, and 
 - **C# .NET** as core language
+- Other tools/platforms:
+    - Asp.Net Web API / HTTP
+    - InMemoryDB / PostgreSQL
+    - Entity Framework
+    - Docker / Docker Desktop
+    - SwaggerUI / Postman
+    - Git / GitHub Actions
+    - Visual Studio Code
+    - WindowOS / MacOS
+
 
 System High-level architecture:
 
