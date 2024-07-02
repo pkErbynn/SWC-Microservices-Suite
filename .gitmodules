@@ -1,0 +1,18 @@
+[submodule "StatlerWaldorfCorp.ES-CQRS-EventProcessor"]
+	path = StatlerWaldorfCorp.ES-CQRS-EventProcessor
+	url = https://github.com/pkErbynn/StatlerWaldorfCorp.ES-CQRS-EventProcessor
+[submodule "StatlerWaldorfCorp.ES-CQRS-ProximityMonitor"]
+	path = StatlerWaldorfCorp.ES-CQRS-ProximityMonitor
+	url = https://github.com/pkErbynn/StatlerWaldorfCorp.ES-CQRS-ProximityMonitor
+[submodule "StatlerWaldorfCorp.ES-CQRS-LocationReporter"]
+	path = StatlerWaldorfCorp.ES-CQRS-LocationReporter
+	url = https://github.com/pkErbynn/StatlerWaldorfCorp.ES-CQRS-LocationReporter
+[submodule "StatlerWaldorfCorp.ES-CQRS-RealityConsumer"]
+	path = StatlerWaldorfCorp.ES-CQRS-RealityConsumer
+	url = https://github.com/pkErbynn/StatlerWaldorfCorp.ES-CQRS-RealityConsumer
+[submodule "StatlerWaldorfCorp.LocationService"]
+	path = StatlerWaldorfCorp.LocationService
+	url = https://github.com/pkErbynn/StatlerWaldorfCorp.LocationService
+[submodule "StatlerWaldorfCorp.TeamService"]
+	path = StatlerWaldorfCorp.TeamService
+	url = https://github.com/pkErbynn/StatlerWaldorfCorp.TeamService
