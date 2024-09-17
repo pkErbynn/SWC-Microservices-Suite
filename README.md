@@ -18,6 +18,7 @@ This cutting-edge suite of scalable, event-driven microservices for team managem
 - PostgreSQL
 - InMemoryDB 
 - Entity Framework Core ORM
+- Moq Testing Framework
 - Docker Desktop
 - SwaggerUI / Postman
 - Git and GitHub 
