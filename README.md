@@ -29,7 +29,7 @@ This cutting-edge suite of scalable, event-driven microservices for team managem
 
 ### High-Level Architecture:
 
-![Architecture](./project-architecture.png)
+![Architecture](./project-architecture2.png)
 
 
 
