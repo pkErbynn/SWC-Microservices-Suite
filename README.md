@@ -46,7 +46,7 @@ This cutting-edge suite of scalable, event-driven microservices for team managem
 
 #### 1. Team Service
 - **Repository:** [StatlerWaldorfCorp.TeamService](https://github.com/pkErbynn/StatlerWaldorfCorp.TeamService)
-- **Description:** This microservice manages team-related operations, including maintaining team lists, handling member details, and overseeing project assignments. This microservice ensures effective team management and coordination.
+- **Description:** This microservice manages team-related operations, including maintaining team lists, handling member details, and overseeing project assignments. This microservice ensures effective team management and coordination. Has an API endpoints exposed to do CRUD operations for teams and members
 
 ### 2. Location Service
 - **Repository:** [StatlerWaldorfCorp.LocationService](https://github.com/pkErbynn/StatlerWaldorfCorp.LocationService)
